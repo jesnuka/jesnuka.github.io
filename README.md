@@ -14,3 +14,6 @@ Denmark together with Julia Korhonen. It includes responsive design and works in
 ### Text Adventure Game
 
 [The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
+
+### Flappy World game
+Very simple [Scala game](https://github.com/jesnuka/Flappy-World-game) for a Aalto University course.
