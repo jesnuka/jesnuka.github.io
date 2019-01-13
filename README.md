@@ -7,5 +7,5 @@ This portfolio includes personal and school related projects. A separate categor
 
 ## School Projects
 ### Responsive Website Project
-This [website](https://github.com/jesnuka/Responsive-website) was done as a final project for Responsive Web Design course at VIA University College, Aarhus,
+This [website](https://github.com/jesnuka/Responsive-website) was done as a project for Responsive Web Design course at VIA University College, Aarhus,
 Denmark together with Julia Korhonen. It includes responsive design and works in multiple resolutions, including mobile.
