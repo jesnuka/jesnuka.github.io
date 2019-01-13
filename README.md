@@ -2,8 +2,12 @@
 This portfolio includes personal and school related projects. A separate category is for separate projects.
 
 ## Personal Projects
- -
- 
+### Character Mods for the game Don't Starve Together
+I have made Two LUA based character mods for the game Don’t Starve Together,
+published to Steam Workshop. The characters were made using LUA, modifying already found files in the game files, writing new code and drawing new graphics.
+- #### [North the Snowman](https://steamcommunity.com/sharedfiles/filedetails/?id=583735156)
+- #### [Clawford the Crab](https://steamcommunity.com/sharedfiles/filedetails/?id=1276022780)
+
 
 ## School Projects
 ### Responsive Website Project
