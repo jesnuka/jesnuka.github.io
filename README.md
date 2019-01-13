@@ -1,4 +1,4 @@
-# Personal portofolio by Jesse Nukarinen 
+# Personal portfolio by Jesse Nukarinen 
 This portfolio includes personal and school related projects. A separate category is for separate projects.
 
 ## Personal Projects
