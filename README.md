@@ -1,2 +1,3 @@
 # jesnuka.github.io
-Personal Portfolio 
+#Personal portofolio by Jesse Nukarinen 
+
