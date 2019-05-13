@@ -5,13 +5,16 @@ This portfolio includes personal and school related projects. A separate categor
 
 ### Character Mods for the game Don't Starve Together
 I have made Two LUA based character mods for the game Don’t Starve Together,
-published to Steam Workshop. The characters were made using LUA, modifying already found files in the game files, writing new code and drawing new graphics.
+published to Steam Workshop. 
+The characters were made using LUA, modifying already found files in the game files, writing new code and drawing new graphics.
 - #### [North the Snowman](https://steamcommunity.com/sharedfiles/filedetails/?id=583735156)
 - #### [Clawford the Crab](https://steamcommunity.com/sharedfiles/filedetails/?id=1276022780)
 
-###Aalto Games Now - Game Jam 2019 Game- BioTrio
+### Aalto Games Now - Game Jam 2019 Game- BioTrio
 I attended Aalto University's 2019 Games Now course Game Jam, which lasted 3 days. [Here](https://itch.io/jam/gnjam19/rate/421844) is the link to the game submission. The game was built in Unity and programmed with C#.
+
 My responsibilities included the 2D art and animations for the characters and programming some parts of the game, like the weapon mechanics and some enemy mechanics, as well as various smaller fixes and additions.
+
 Here is a screenshot from the game:
 ![BioTrio](BioTrioScreenshot.png)
 
