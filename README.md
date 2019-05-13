@@ -35,7 +35,7 @@ Here is a screenshot from the game:
 - Final Site Styling (Logo, Color scheme, Fonts) 
 - Images on site (Default profile picture, Front page banner and Forestrunner ad, Torque logo, default game picture) 
 - 3rd Party Login (Facebook) using Django allauth 
-- Own Javascript game, “Forestrunner” 
+- Own Javascript game, “Forestrunner”, [Which is playable here](http://gamestore-torque.herokuapp.com/store/coolgame)
 - Custom error pages
 - Front-end (CSS, Bootstrap) for (Login/Registration, Profile, Registration, Nav-bar ) 
 
