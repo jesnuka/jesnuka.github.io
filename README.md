@@ -26,7 +26,7 @@ Here is a screenshot from the game:
 
 ## School Projects
 
-###Online Game Store
+### Online Game Store
 [This website](http://gamestore-torque.herokuapp.com/store/index) is an online game store made for Aalto University Web Software Development course. It was done in a group of three. In this project my responsibilities were:
 
 - Login Authorization and User Registration using Django Auth (Created User app for all auth features)
