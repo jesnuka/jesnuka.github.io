@@ -14,7 +14,8 @@ The characters were made using LUA, modifying already found files in the game fi
 [![Clawford](clawford.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1276022780)
 
 ### Aalto Games Now - Game Jam 2019 Game- BioTrio
-I attended Aalto University's 2019 Games Now course Game Jam, which lasted 3 days. [Here](https://itch.io/jam/gnjam19/rate/421844) is the link to the game submission. The game was built in Unity and programmed with C#.
+I attended Aalto University's 2019 Games Now course Game Jam, which lasted 3 days. 
+[Hereis the link to the game submission.](https://itch.io/jam/gnjam19/rate/421844)  The game was built in Unity and programmed with C#.
 
 My responsibilities included the 2D art and animations for the characters and programming some parts of the game, like the weapon mechanics and some enemy mechanics, as well as various smaller fixes and additions.
 
