@@ -13,7 +13,7 @@ The characters were made using LUA, modifying already found files in the game fi
 - ### [Clawford the Crab](https://steamcommunity.com/sharedfiles/filedetails/?id=1276022780)
 [![Clawford](clawford.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1276022780)
 
-### Aalto Games Now - Game Jam 2019 Game- BioTrio
+### Aalto Games Now - Game Jam 2019 Game - BioTrio
 I attended Aalto University's 2019 Games Now course Game Jam, which lasted 3 days.
 
 [Here is the link to the game submission.](https://itch.io/jam/gnjam19/rate/421844)  
