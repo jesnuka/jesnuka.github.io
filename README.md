@@ -30,7 +30,7 @@ Here is a screenshot from the game:
 [This website](http://gamestore-torque.herokuapp.com/store/index) is an online game store made for Aalto University Web Software Development course. It was done in a group of three. In this project my responsibilities were:
 
 - Login Authorization and User Registration using Django Auth (Created User app for all auth features)
-- Forgot password feature, Email account confirmation, Email change confirmation email (Using Console Backend)
+- "Forgotten Password" - feature, Email account confirmation, Email change confirmation email (Using Console Backend)
 - Profile (Password change, Profile Edit, Avatar change/add)
 - Final Site Styling (Logo, Color scheme, Fonts) 
 - Images on site (Default profile picture, Front page banner and Forestrunner ad, Torque logo, default game picture) 
