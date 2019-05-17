@@ -15,8 +15,8 @@ The characters were made using LUA, modifying already found files in the game fi
 
 ### Character Mod for the game Blazing Beaks
 I have made a character mod for the game Blazing Beaks. The character includes new unique sprites for each animation, new sound effects and statistics for the character modified with game balance in mind.
-### [The Eagle](https://steamcommunity.com/sharedfiles/filedetails/?id=1743903650)
-[![Eagle](eagleAvatar.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1743903650)
+- ### [The Eagle](https://steamcommunity.com/sharedfiles/filedetails/?id=1743903650)
+  [![Eagle](eagleAvatar.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1743903650)
 
 ### Aalto Games Now - Game Jam 2019 Game - BioTrio
 I attended Aalto University's 2019 Games Now course Game Jam, which lasted 3 days.
