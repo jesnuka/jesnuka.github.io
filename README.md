@@ -27,7 +27,7 @@ The game was built in Unity and programmed with C#.
 My responsibilities included the 2D art and animations for the characters and programming some parts of the game, like the weapon mechanics and some enemy mechanics, as well as various smaller fixes and additions.
 
 Here is a screenshot from the game:
-![BioTrio](BioTrioScreenshot.png)
+[![BioTrio](BioTrioScreenshot.png)](https://itch.io/jam/gnjam19/rate/421844)
 
 ## School Projects
 
@@ -44,19 +44,17 @@ Here is a screenshot from the game:
 - Front-end (CSS, Bootstrap) for (Login/Registration, Profile, Registration, Nav-bar ) 
 - Own Javascript game, “Forestrunner”, [which is playable here](http://gamestore-torque.herokuapp.com/store/coolgame)
 
-![ForestRunner](forest_runner.png)
+  [![ForestRunner](forest_runner.png)](http://gamestore-torque.herokuapp.com/store/coolgame)
+  [![ForestRunner2](forest_runner2.png)](http://gamestore-torque.herokuapp.com/store/coolgame)
 
 ### Responsive Website Project
-This [website](https://jesnuka.github.io/Responsive-website/) was done as a project for Responsive Web Design course at VIA University College, Aarhus,
-
-Denmark together with Julia Korhonen. It includes responsive design and works in multiple resolutions, including mobile.
+This [website](https://jesnuka.github.io/Responsive-website/) was done as a project for Responsive Web Design course at VIA University College, Aarhus, Denmark together with Julia Korhonen. It includes responsive design and works in multiple resolutions, including mobile.
 
 ### Text Adventure Game
-
 [The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
 
 ### PuzzleScript Game - Extreme Pilkki
-![Extreme Pilkki](extremepilkki.png)
+[![Extreme Pilkki](extremepilkki.png)](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
 
 [Extreme Pilkki](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
 
