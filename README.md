@@ -40,10 +40,11 @@ Here is a screenshot from the game:
 - Final Site Styling (Logo, Color scheme, Fonts) 
 - Images on site (Default profile picture, Front page banner and Forestrunner ad, Torque logo, default game picture) 
 - 3rd Party Login (Facebook) using Django allauth 
-- Own Javascript game, “Forestrunner”, [which is playable here](http://gamestore-torque.herokuapp.com/store/coolgame)
 - Custom error pages
 - Front-end (CSS, Bootstrap) for (Login/Registration, Profile, Registration, Nav-bar ) 
 
+- Own Javascript game, “Forestrunner”, [which is playable here](http://gamestore-torque.herokuapp.com/store/coolgame)
+![ForestRunner](forest_runner.png)
 
 ### Responsive Website Project
 This [website](https://jesnuka.github.io/Responsive-website/) was done as a project for Responsive Web Design course at VIA University College, Aarhus,
@@ -55,9 +56,10 @@ Denmark together with Julia Korhonen. It includes responsive design and works in
 [The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
 
 ### PuzzleScript Game - Extreme Pilkki
-![Extreme Pilkki](extreme_pilkki.png)
+![Extreme Pilkki](extremepilkki.png)
 
 [Extreme Pilkki](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
+
 Small game developed for a task in Aalto University course, using Puzzlescript game engine. 
 
 ### Flappy World game
