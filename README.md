@@ -42,8 +42,8 @@ Here is a screenshot from the game:
 - 3rd Party Login (Facebook) using Django allauth 
 - Custom error pages
 - Front-end (CSS, Bootstrap) for (Login/Registration, Profile, Registration, Nav-bar ) 
-
 - Own Javascript game, “Forestrunner”, [which is playable here](http://gamestore-torque.herokuapp.com/store/coolgame)
+
 ![ForestRunner](forest_runner.png)
 
 ### Responsive Website Project
