@@ -54,5 +54,11 @@ Denmark together with Julia Korhonen. It includes responsive design and works in
 
 [The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
 
+### PuzzleScript Game - Extreme Pilkki
+![Extreme Pilkki](extreme_pilkki.png)
+
+[Extreme Pilkki](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
+Small game developed for a task in Aalto University course, using Puzzlescript game engine. 
+
 ### Flappy World game
 Very simple [Scala game](https://github.com/jesnuka/Flappy-World-game) for a Aalto University course.
