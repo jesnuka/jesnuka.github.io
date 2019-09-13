@@ -22,12 +22,52 @@ I have made a character mod for the game Blazing Beaks. The character includes n
 I attended Aalto University's 2019 Games Now course Game Jam, which lasted 3 days.
 
 [Here is the link to the game's submission page.](https://itch.io/jam/gnjam19/rate/421844)  
+and [here is the link to the game's itch.io page](https://rinisra.itch.io/bio-trio)
 The game was built in Unity and programmed with C#.
 
 My responsibilities included the 2D art and animations for the characters and programming some parts of the game, like the weapon mechanics and some enemy mechanics, as well as various smaller fixes and additions.
 
 Here is a screenshot from the game:
-[![BioTrio](BioTrioScreenshot.png)](https://itch.io/jam/gnjam19/rate/421844)
+[![BioTrio](BioTrioScreenshot.png)](https://rinisra.itch.io/bio-trio)
+
+
+
+
+### Eko Game Jam 2019 - SHAMES
+I attended [Eko Game Jam 2019](https://www.ekogamejam.org/) which lasted 3 days.
+
+[Here is the link to the game's submission page,](https://itch.io/jam/eko-game-jam/rate/438259)
+and [here is the link to the game's itch.io page](https://jarimiranda.itch.io/shames)
+
+The game was built in Unity, programmed with C# and was made for mobile android devices.
+
+The game uses a database for the emissions that are calculated from: https://ilmastodieetti.ymparisto.fi/ilmastodieetti/swagger/ui/index#/
+
+My responsibilities included programming the emission calculations and how they are fetched as JSON for Unity, creating the card change mechanics and their interactions with the player status and also some Unity's editor side things.
+I also worked on some of the UI.
+
+Here are screenshots from the game:
+
+
+[![Shames](shames_bear.png)](https://jarimiranda.itch.io/shames)
+[![Shames](shames_bags.png)](https://jarimiranda.itch.io/shames)
+
+
+### Assembly Summer Game Jam 2019 - Baneful Blessings
+I attended Assembly Summer Game Jam 2019 which lasted 4 days.
+
+[Here is the link to the game's submission page,](https://itch.io/jam/asm-game-jam-2019/rate/460966)
+and [here is the link to the game's itch.io page](https://jesnuka.itch.io/baneful-blessings)
+
+The game was built in Unity, programmed with C#.
+
+My responsibilities included programming some inventory related mechanics, Unity's editor side things, sprite animations in Unity, enemy mechanics and also overall fixes here and there.
+
+Here are screenshots from the game:
+
+[![Baneful Blessings](bb_title.png)](https://jesnuka.itch.io/baneful-blessings)
+[![Baneful Blessings](bb_intro.png)](https://jesnuka.itch.io/baneful-blessings)
+
 
 ## School Projects
 
