@@ -69,6 +69,21 @@ Here are screenshots from the game:
 [![Baneful Blessings](bb_intro.png)](https://jesnuka.itch.io/baneful-blessings)
 
 
+### Global Game Jam 2020 - Space Intern
+
+[Here is the link to the game's submission page.](https://globalgamejam.org/2020/games/space-intern-7)
+
+The game was built in Unity, programmed with C# and was made for mobile android devices.
+
+My responsibilities included programming some of the puzzles in the game, some Unity editor side things and some fixes here and there.
+
+Here are screenshots from the game:
+
+
+[![Space Intern](spaceIntern1.png)](https://globalgamejam.org/2020/games/space-intern-7)
+[![Space Intern](spaceIntern2.png)](https://globalgamejam.org/2020/games/space-intern-7)
+[![Space Intern](spaceIntern3.png)](https://globalgamejam.org/2020/games/space-intern-7)
+
 ## School Projects
 
 ### Online Game Store
