@@ -87,7 +87,7 @@ Here are screenshots from the game:
 ## School Projects
 
 ### Text Adventure Game
-[The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
+[The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for an Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
 
 ### PuzzleScript Game - Extreme Pilkki
 [![Extreme Pilkki](extremepilkki.png)](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
@@ -98,6 +98,21 @@ Small game developed for a task in Aalto University course, using Puzzlescript g
 
 ### Responsive Website Project
 This [website](https://jesnuka.github.io/Responsive-website/) was done as a project for Responsive Web Design course at VIA University College, Aarhus, Denmark together with Julia Korhonen. It includes responsive design and works in multiple resolutions, including mobile.
+
+### Tower Defense Game - Gatekeepers
+Gatekeepers is a tower defense game I made for an Aalto University course using Scala programming language and [Processing](https://processing.org/download/) for the graphical rendering. The graphics in the game were made by me, inspired by the graphics supported by the Nintendo Entertainment Systems (NES), with a 4 color palette on each sprite in the game. The colors are also chosen from those that the NES supports. This was my first attempt at using Processing with Scala, which provided some challenges, as it did not support some functionalities that well. However, the game works in it's current state, but is slowed down quite much depending on the computer it is run on.
+
+The enemies are programmed to recognize the road in the game, allowing the map to the fully customized in the text files, which means that more levels can be made. However, the maps do not currently support forks in the road, or roads that are wider than one tile.
+
+The game features 10 levels currently, but supports adding more. It has an interactive menu and a level selector screen. The levels can be edited in a text file and are loaded from there when the game starts.
+The main game has build and destroying mode. If the player has enough currency, they can build turrets by placing them on tiles, with the exception of the roads, walls and the exit and entrance. In the destroying mode, the player can click these turrets to break them and get 2/3 of their money back. These turrets automatically shoot at nearby enemies, giving the player gold by defeating the enemies. Once the player is ready and clicks the swords icon on the right side, the round will start and the enemies will spawn. They move along the road and will try to reach the exit, unless killed. If the player's health reaches zero, they will lose. By winning each round, they will win the level. 
+
+
+[![GateKeepers](gatekeepers2.png)](https://jesnuka.github.io/)
+[![GateKeepers](gatekeepers5.png)](https://jesnuka.github.io/)
+[![GateKeepers](gatekeepers3.png)](https://jesnuka.github.io/)
+[![GateKeepers](gatekeepers4.png)](https://jesnuka.github.io/)
+[![GateKeepers](gatekeepers1.png)](https://jesnuka.github.io/)
 
 ### Online Game Store
 [This website](http://gamestore-torque.herokuapp.com/store/index) is an online game store made for Aalto University Web Software Development course. It was done in a group of three. In this project my responsibilities were:
