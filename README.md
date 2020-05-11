@@ -86,6 +86,19 @@ Here are screenshots from the game:
 
 ## School Projects
 
+### Text Adventure Game
+[The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
+
+### PuzzleScript Game - Extreme Pilkki
+[![Extreme Pilkki](extremepilkki.png)](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
+
+[Extreme Pilkki](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
+
+Small game developed for a task in Aalto University course, using Puzzlescript game engine. 
+
+### Responsive Website Project
+This [website](https://jesnuka.github.io/Responsive-website/) was done as a project for Responsive Web Design course at VIA University College, Aarhus, Denmark together with Julia Korhonen. It includes responsive design and works in multiple resolutions, including mobile.
+
 ### Online Game Store
 [This website](http://gamestore-torque.herokuapp.com/store/index) is an online game store made for Aalto University Web Software Development course. It was done in a group of three. In this project my responsibilities were:
 
@@ -102,15 +115,11 @@ Here are screenshots from the game:
   [![ForestRunner](forest_runner.png)](http://gamestore-torque.herokuapp.com/store/coolgame)
   [![ForestRunner2](forest_runner2.png)](http://gamestore-torque.herokuapp.com/store/coolgame)
 
-### Responsive Website Project
-This [website](https://jesnuka.github.io/Responsive-website/) was done as a project for Responsive Web Design course at VIA University College, Aarhus, Denmark together with Julia Korhonen. It includes responsive design and works in multiple resolutions, including mobile.
+### Training Ducks to Collect Bread - Machine Learning Agents in Unity
+[DuckPool](https://jesnuka.github.io/DuckPool/) is a machine learning project made together with Julia Korhonen for "Artificial Intelligence and Applied Methods" course in Kungliga Tekniska Högskolan (KTH), Stockholm, Sweden.
 
-### Text Adventure Game
-[The Curse of Adbury - Scala text adventure game](https://github.com/jesnuka/Curse-of-Adbury-text-adventure-game) for Aalto University course. Includes multiple different endings, many different commands and hidden features. Made together with Veikka Halonen.
+The goal of the project was to train a virtual duck to be the most efficient at finding bread in a contained environment with limited time. It was done using Unity and an Unity plugin called “The Unity Machine Learning Agents Toolkit (ML-Agents)”. This plugin enables games and simulations to serve as environments for training intelligent agents. The agents can be trained using different machine learning methods through a simple-to-use Python API. The 3D Models were made using Blender.
 
-### PuzzleScript Game - Extreme Pilkki
-[![Extreme Pilkki](extremepilkki.png)](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
+The view has two different ducks, the other with no training and another one that has had training with speed multiplied by 100 for the duration of 3 hours.
 
-[Extreme Pilkki](https://www.puzzlescript.net/play.html?p=634d491974f44686c5e420f01f615606)
-
-Small game developed for a task in Aalto University course, using Puzzlescript game engine. 
+[![DuckPool](ml_ducks.png)](https://jesnuka.github.io/DuckPool/)
