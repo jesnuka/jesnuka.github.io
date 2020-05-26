@@ -143,6 +143,8 @@ My contribution to the project involved both programming and graphics. I modeled
 [![MazeGame](gasTrap.png)](https://jesnuka.github.io)
 [![MazeGame](torch.png)](https://jesnuka.github.io)
 
+<iframe width="560" height="315" src="maze_video_final.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Training Ducks to Collect Bread - Machine Learning Agents in Unity
 [DuckPool](https://jesnuka.github.io/DuckPool/) is a machine learning project made together with Julia Korhonen for "Artificial Intelligence and Applied Methods" course in Kungliga Tekniska Högskolan (KTH), Stockholm, Sweden.
