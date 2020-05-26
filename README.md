@@ -129,9 +129,24 @@ The main game has build and destroying mode. If the player has enough currency, 
 
   [![ForestRunner](forest_runner.png)](http://gamestore-torque.herokuapp.com/store/coolgame)
   [![ForestRunner2](forest_runner2.png)](http://gamestore-torque.herokuapp.com/store/coolgame)
+  
+  
+### Demo MR Application for the CloudXR team
+This project was done during a software project course in Aalto University. It was done for the CloudXR Research Team to demonstrate the benefits of cloud rendering. The game was built in Unity, programmed with C# and built for Android phones. The project is an AR game that features a maze that the player must travel through, while avoiding traps and trying to reach checkpoints and eventually the goal. The maze is rendered onto a large enough area that the player points to using the phone's camera. This is done using Google's ARCore. The settings in the game allow for a locally rendered version to be toggled to a cloud rendered version, which shows the increase in FPS during gameplay.
+
+My contribution to the project involved both programming and graphics. I modeled the traps, checkpoints and the goal using Blender, and textured them accordingly. I also worked with the effects that the traps produce. Programming wise I worked with the characters movement, created the checkpoints system that returns the player to the last interacted checkpoint after their death. I also created the goal system in the game, which ends the current game and allows for a new maze to be created.
+
+[![MazeGame](fireTrap.png)](https://jesnuka.github.io)
+[![MazeGame](spikeTrap.png)](https://jesnuka.github.io)
+[![MazeGame](stormTrap.png)](https://jesnuka.github.io)
+[![MazeGame](teleportTrap.png)](https://jesnuka.github.io)
+[![MazeGame](gasTrap.png)](https://jesnuka.github.io)
+
 
 ### Training Ducks to Collect Bread - Machine Learning Agents in Unity
 [DuckPool](https://jesnuka.github.io/DuckPool/) is a machine learning project made together with Julia Korhonen for "Artificial Intelligence and Applied Methods" course in Kungliga Tekniska Högskolan (KTH), Stockholm, Sweden.
+
+The project was built in Unity, programmed with C#.
 
 The goal of the project was to train a virtual duck to be the most efficient at finding bread in a contained environment with limited time. It was done using Unity and an Unity plugin called “The Unity Machine Learning Agents Toolkit (ML-Agents)”. This plugin enables games and simulations to serve as environments for training intelligent agents. The agents can be trained using different machine learning methods through a simple-to-use Python API. The 3D Models were made using Blender.
 
