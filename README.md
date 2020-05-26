@@ -141,6 +141,7 @@ My contribution to the project involved both programming and graphics. I modeled
 [![MazeGame](stormTrap.png)](https://jesnuka.github.io)
 [![MazeGame](teleportTrap.png)](https://jesnuka.github.io)
 [![MazeGame](gasTrap.png)](https://jesnuka.github.io)
+[![MazeGame](torch.png)](https://jesnuka.github.io)
 
 
 ### Training Ducks to Collect Bread - Machine Learning Agents in Unity
