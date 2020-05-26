@@ -143,7 +143,9 @@ My contribution to the project involved both programming and graphics. I modeled
 [![MazeGame](gasTrap.png)](https://jesnuka.github.io)
 [![MazeGame](torch.png)](https://jesnuka.github.io)
 
-<iframe width="560" height="315" src="maze_video_final.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Below is a video demonstrating the AR Maze project.
+
+<iframe width="560" height="315" src="maze_video_final.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Training Ducks to Collect Bread - Machine Learning Agents in Unity
