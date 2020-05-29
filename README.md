@@ -144,9 +144,6 @@ My contribution to the project involved both programming and graphics. I modeled
 [![MazeGame](torch.png)](https://jesnuka.github.io)
 
 Below is a video demonstrating the AR Maze project.
-
-<iframe width="560" height="315" src="maze_video_final.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <video width="560" height="315" controls>
     <source src="maze_video_final.mp4" type="video/mp4">
 </video>
