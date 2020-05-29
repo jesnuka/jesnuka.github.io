@@ -147,6 +147,10 @@ Below is a video demonstrating the AR Maze project.
 
 <iframe width="560" height="315" src="maze_video_final.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video width="560" height="315" controls>
+    <source src="maze_video_final.mp4" type="video/mp4">
+</video>
+
 
 ### Training Ducks to Collect Bread - Machine Learning Agents in Unity
 [DuckPool](https://jesnuka.github.io/DuckPool/) is a machine learning project made together with Julia Korhonen for "Artificial Intelligence and Applied Methods" course in Kungliga Tekniska Högskolan (KTH), Stockholm, Sweden.
